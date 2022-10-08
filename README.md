@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: shahihritik@gmail.com.
 
-\\[![@iamhritik's Holopin board](https://holopin.io/api/user/board?user=iamhritik)](https://holopin.io/@iamhritik)
+[![@iamhritik's Holopin board](https://holopin.io/api/user/board?user=iamhritik)](https://holopin.io/@iamhritik)
