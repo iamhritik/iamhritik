@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with Terraform
 
-- 📫 How to reach me: shahihritik@gmail.com.
+- 📫 How to reach me: hritik.99@outlook.com.
 
 [![@iamhritik's Holopin board](https://holopin.io/api/user/board?user=iamhritik)](https://holopin.io/@iamhritik)
