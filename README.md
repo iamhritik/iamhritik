@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 -->
-- 🔭 I’m currently working on Kubernetes,AWS,GCP,Linux and Python
-- 🌱 I’m currently learning Terraform
+- 🔭 I’m currently working on Kubernetes,AWS,Terraform,Linux and Python
+- 🌱 I’m currently learning GCP
 
 - 🤔 I’m looking for help with Terraform
 
