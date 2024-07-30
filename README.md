@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 🔭 I’m currently working on Kubernetes,AWS,Terraform,Linux and Python
-- 🌱 I’m currently learning GCP
+- 🌱 I’m currently learning about GO & Kafka
 
-- 🤔 I’m looking for help with Terraform
 
 - 📫 How to reach me: hritik.99@outlook.com.
 
